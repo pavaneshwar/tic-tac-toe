@@ -1,9 +1,14 @@
+import TicTacToe from "./TicTacToe/TicTacToe";
+import "./TicTacToe/TicTacToe.css"
+
 
 function App() {
+
+
   return (
-    <div>
-      Hi
-    </div>
+    <>
+      <TicTacToe/>
+    </>
   );
 }
 
